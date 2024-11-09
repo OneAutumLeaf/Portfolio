@@ -161,7 +161,7 @@ const Main = (e) => {
                 whileTap={{scale: 0.9}}
                 
                 >
-                <a href="https://drive.google.com/file/d/12TbOTYFEJrDqHkDUvREM4CsKF40Mo3Fw/view?usp=sharing" target="_blank" rel='noreferrer noopener'  style={{textDecoration:"none" ,color:"black"}}>Resume</a>
+                <a href="https://drive.google.com/file/d/1TX-FNgjU2Di3Us-9bbTHzIBbJJVygmzt/view?usp=sharing" target="_blank" rel='noreferrer noopener'  style={{textDecoration:"none" ,color:"black"}}>Resume</a>
                 </motion.h2>
             </Contact>
             <BLOG to="/blog">
